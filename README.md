@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://isheero.com/">
-  <img width="900" src="https://github.com/iSheero-AI/learning-resources/Banner.png"></a>
+  <img width="900" src="https://github.com/iSheero-AI/learning-resources/blob/main/Banner.png"></a>
 </p>
 
 <div align="center">
