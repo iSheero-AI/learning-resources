@@ -8,15 +8,15 @@ Welcome! This repository is designed to provide a comprehensive collection of le
 </div>
 
 ## 📑 Table of Contents
-- [📘 Introduction](#introduction)
-- [🔍 Fields of Study](#fields-of-study)
-- [📊 Course Levels](#course-levels)
-  - [🔰 Beginner](#beginner)
-  - [🚀 Intermediate](#intermediate)
-  - [🏆 Advanced](#advanced)
-- [🔧 How to Use This Repository](#how-to-use-this-repository)
-- [🤝 Contributing](#contributing)
-- [📄 License](#license)
+- [📘 Introduction](#-introduction)
+- [🔍 Fields of Study](#-fields-of-study)
+- [📊 Course Levels](#-course-levels)
+  - [🔰 Beginner](#-beginner)
+  - [🚀 Intermediate](-#intermediate)
+  - [🏆 Advanced](#-advanced)
+- [🔧 How to Use This Repository](#-how-to-use-this-repository)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
 ## 📘 Introduction
 
