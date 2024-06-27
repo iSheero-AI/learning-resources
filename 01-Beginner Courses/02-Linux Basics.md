@@ -34,3 +34,46 @@
   <summary>Details</summary>
   Details
 </details>
+
+## [#004 - Principes de base de la ligne de commande sous Linux](https://www.coursera.org/projects/principes-de-base-de-la-ligne-de-commande-sous-linux)
+
+<details>
+  <summary>Details</summary>
+
+1. Début amusant avec Linux
+
+2. MAN la commande Linux la plus importante
+
+3. Exploration de SUDO
+
+4. Navigation et gestion des fichiers
+
+5. Création et affichage de fichiers
+
+6. Plus d'options avec linux
+
+</details>
+
+## [#005 - Les outils du métier : Linux et SQL](https://www.coursera.org/learn/les-outils-du-metier-linux-et-sql)
+
+<details>
+  <summary>Details</summary>
+  Details
+</details>
+
+## [#006 - **Vidéo** : GNU/Linux](https://youtu.be/py1E14pXfAM?si=wYvOlPeOXS2bD_nm)
+
+<details>
+  <summary>Details</summary>
+1. Début amusant avec Linux
+
+2. MAN la commande Linux la plus importante
+
+3. Exploration de SUDO
+
+4. Navigation et gestion des fichiers
+
+5. Création et affichage de fichiers
+
+6. Plus d'options avec linux
+</details>
