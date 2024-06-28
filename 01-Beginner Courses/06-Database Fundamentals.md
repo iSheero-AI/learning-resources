@@ -12,14 +12,14 @@
   <summary>Details</summary>
 </details>
 
-## [003 - Microsoft Learn : Database Fundamentals](https://www.datacamp.com/courses/introduction-to-statistics)
+## [003 - Microsoft Learn : Database Fundamentals](https://learn.microsoft.com/en-us/shows/dbfundamentals/)
 
 <details>
   <summary>Details</summary>
 
 </details>
 
-## [004 - Geeks for Geeks : Basic Database Concepts](https://www.datacamp.com/courses/introduction-to-statistics)
+## [004 - Geeks for Geeks : Basic Database Concepts](https://www.geeksforgeeks.org/basic-database-concepts/)
 
 <details>
   <summary>Details</summary>
