@@ -21,28 +21,28 @@
   Details
 </details>
 
-## [#004 - DataQuest : SQL Basics _ Hands-On Beginner SQL Tutorial](https://dataquest.io/blog/sql-basics/)
+## [004 - DataQuest : SQL Basics _ Hands-On Beginner SQL Tutorial](https://dataquest.io/blog/sql-basics/)
 
 <details>
   <summary>Details</summary>
   Details
 </details>
 
-## [#005 - DataCamp : Introduction to SQL](https://www.datacamp.com/courses/introduction-to-sql)
+## [005 - DataCamp : Introduction to SQL](https://www.datacamp.com/courses/introduction-to-sql)
 
 <details>
   <summary>Details</summary>
   Details
 </details>
 
-## [#006 - Udemy : SQL for beginners with :( PostgreSQL, MySQL, SQL Server )](https://www.udemy.com/course/sql-for-beginners-with-postgresql-mysql-sql-server/)
+## [006 - Udemy : SQL for beginners with :( PostgreSQL, MySQL, SQL Server )](https://www.udemy.com/course/sql-for-beginners-with-postgresql-mysql-sql-server/)
 
 <details>
   <summary>Details</summary>
   Details
 </details>
 
-## [#007 - **Video** :  SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY?si=kUu544w3YodjtEB7)
+## [007 - **Video** :  SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY?si=kUu544w3YodjtEB7)
 
 <details>
   <summary>Details</summary>
