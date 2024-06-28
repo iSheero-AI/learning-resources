@@ -1,0 +1,154 @@
+site_name: Learning Resources
+site_description: 'Looking for learning resources about artificial intelligence 🤖 and data 📊? There are relevant courses for you! 🎓✨'
+site_author: 'isheero-ai'
+copyright: "Copyright &copy; 2024 iSheero"
+
+docs_dir: docs/
+
+repo_name: isheero-ai/learning-resources
+repo_url: https://github.com/isheero-ai/learning-resources
+edit_uri: tree/mkdocs/docs # Uncomment to define a different URI/URL for the "edit" option
+
+nav:
+  - Bienvenue !: index.md
+  - Débutant:
+      Python Programming : "01-Beginner Courses/01-Python Programming.md"
+      Linux Basics : "01-Beginner Courses/02-Linux Basics.md"
+      Git and Github : "01-Beginner Courses/03-Git and Github.md"
+      SQL : "01-Beginner Courses/04-SQL.md"
+      Statistics : "01-Beginner Courses/05-Statistics.md"
+      Database Fundamentals : "01-Beginner Courses/06-Database Fundamentals.md"
+      Data Modeling : "01-Beginner Courses/07-Data Modeling.md"
+      Data Visualization : "01-Beginner Courses/08-Data Visualization.md"
+      Mathematics for Robotics : "01-Beginner Courses/09-Mathematics for Robotics.md"
+      Basic Electronics and Programming : "01-Beginner Courses/10-Basic Electronics and Programming.md"
+      Cloud Basics : "01-Beginner Courses/11-Cloud Basics.md"
+  - Intermédiaire:
+      Advanced Statistics : "02-Intermediate Courses/01-Advanced Statistics.md"
+      Data Cleaning : "02-Intermediate Courses/02-Data Cleaning.md"
+      Data Visualization Tools : "02-Intermediate Courses/03-Data Visualization Tools.md"
+      Machine Learning : "02-Intermediate Courses/04-Machine Learning.md"
+      Infrastructure as Code : "02-Intermediate Courses/05-Infrastructure as Code.md"
+      Cloud Platforms : "02-Intermediate Courses/06-Cloud Platforms.md"
+      NoSQL Databases : "02-Intermediate Courses/07-NoSQL Databases.md"
+      Business Analytics : "02-Intermediate Courses/08-Business Analytics.md"
+      ETL Processes : "02-Intermediate Courses/09-ETL Processes.md"
+  - Avancé:
+      Advanced Statistics : "03-Advanced Courses/01-Advanced SQL.md"
+      Advanced Cloud Services : "03-Advanced Courses/02-Advanced Cloud Services.md"
+      ML Systems Design : "03-Advanced Courses/03-ML Systems Design.md"
+      Deep Learning : "03-Advanced Courses/04-Deep Learning.md"
+      MLOps : "03-Advanced Courses/05-MLOps.md"
+      Big Data Tools : "03-Advanced Courses/06-Big Data Tools.md"
+      Containerization : "03-Advanced Courses/07-Containerization.md"
+      Cloud Security : "03-Advanced Courses/08-Cloud Security.md"
+      Data Governance : "03-Advanced Courses/09-Data Governance.md"
+      Data Warehousing : "03-Advanced Courses/10-Data Warehousing.md"
+      Advanced Robotics Programming : "03-Advanced Courses/11-Advanced Robotics Programming.md"
+      Real-Time Data Processing : "03-Advanced Courses/12-Real-Time Data Processing.md"
+
+
+theme:
+  name: 'material'
+  #custom_dir: 'theme'
+  favicon: 'https://www.isheero.com/wp-content/uploads/2022/07/cropped-Isheero_521x512_v2-32x32.png'
+  logo: 'https://www.isheero.com/wp-content/uploads/2022/07/Isheero_521x142px-BLANC.png'
+
+  palette:
+    - scheme: default
+      primary: 'pink'
+      accent: indigo
+      toggle:
+          icon: material/toggle-switch-off-outline
+          name: Switch to dark mode
+
+    - scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  
+  #language: 'en'
+  
+  # +------------------------------------------------------------------------------------------------------+
+  # |                                                                                                      |
+  # | The "direction" option is commonly used together with the "language" option.                         |
+  # |                                                                                                      |
+  # | It allows you to change the text direction from the default left-to-right (ltr) to right-to-left     |
+  # | (rtl) which is used in certain languages.                                                            |
+  # |                                                                                                      |
+  # | Read More:                                                                                           |
+  # | - https://squidfunk.github.io/mkdocs-material/setup/changing-the-language/#directionality            |
+  # |                                                                                                      |
+  # +------------------------------------------------------------------------------------------------------+
+  #direction: 'ltr'
+  
+  # +------------------------------------------------------------------------------------------------------+
+  # |                                                                                                      |
+  # | The "features" option allows you to enable specific features of Material, by adding them to the      |
+  # | list.                                                                                                |
+  # |                                                                                                      |
+  # | Features are in the format <category>.<name>. As an example, the feature to enable tabs is called    |
+  # | navigation.tabs.                                                                                     |
+  # |                                                                                                      |
+  # | The list below contains all known features of Material.                                              |
+  # |                                                                                                      |
+  # | Features marked with a * are currently Insiders-only. (Last update: 11th December 2021)              |
+  # | https://squidfunk.github.io/mkdocs-material/insiders/                                                |
+  # |                                                                                                      |
+  # | Read More:                                                                                           |
+  # | - https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/                           |
+  # |                                                                                                      |
+  # +------------------------------------------------------------------------------------------------------+
+  features:
+  
+  # Navigation:
+  #
+  #- navigation.expand      # Expand all collapsable sections.
+  - navigation.instant     # Instant loading pages.
+  #- navigation.indexes     # Attach pages directly to Sections. Incompatible with "toc.integrate"
+  #- navigation.sections    # Render top sections as groups.
+  - navigation.tabs         # Render top sections as tabs at the top.
+  - navigation.tabs.sticky # Tabs won't disappear when scrolling down. Requires "navigation.tabs".
+  - navigation.top         # Adds a "Back to top" that is shown when scrolling up.
+  #- navigation.tracking    # Updates the url with highlighted section anchor.
+  
+  # Search
+  #
+  - search.highlight # Search will highlight the searched word(s) on the page.*
+  #- search.share     # Adds an option to share a search query link.*
+  #- search.suggest   # Search will suggest the likeliest completion for a word.*
+  
+  # Table of Contents
+  #
+  - toc.integrate          # Include the TOC sections in the left navugation.
+
+  icon:
+    logo: 'material/github'
+    repo: 'material/github'
+  
+extra:
+  social:
+    - icon: 'fontawesome/brands/github'
+      link: 'https://github.com/isheero-ai/learning-resources'
+    - icon: 'fontawesome/brands/linkedin'
+      link: 'https://www.linkedin.com/company/isheero/'
+      
+  generator: true
+
+plugins:
+  - search
+  - mkdocstrings
+  - git-revision-date
+
+markdown_extensions:
+  - markdown.extensions.admonition:
+  - markdown.extensions.codehilite:
+      guess_lang: true
+  - markdown.extensions.toc:
+      permalink: true
