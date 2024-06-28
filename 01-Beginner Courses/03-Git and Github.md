@@ -20,3 +20,17 @@
   <summary>Details</summary>
   Details
 </details>
+
+## [#004 - **Video** : Git et GitHub pour la Data Science : Le Guide Complet pour Débutant.e.s](https://youtu.be/xwFj6WCJW0I?si=k2b-4S1qcLgyNecZ)
+
+<details>
+  <summary>Details</summary>
+  Details
+</details>
+
+## [#005 - IBM : Git and GitHub Basics](https://www.edx.org/learn/github/ibm-git-and-github-basics)
+
+<details>
+  <summary>Details</summary>
+  Details
+</details>
