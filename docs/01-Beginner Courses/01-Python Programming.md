@@ -7,32 +7,36 @@
 <details>
   <summary>Details</summary>
   
-### PARTIE 1 :  Créez des données avec Python
-1. Tirez un maximum de ce cours
-2. Installez votre environnement Python
-3. Lancez votre premier programme Python
-4. Enregistrez vos données avec des variables
-5. Classez des données avec les types de données
-6. Enregistrez des groupes de données avec les listes
-7. Enregistrez des données complexes avec des dictionnaires
+<h3><strong>PARTIE 1 :  Créez des données avec Python</strong></h3>
+<ol>
+  <li>Tirez un maximum de ce cours</li>
+  <li>Installez votre environnement Python</li>
+  <li>Lancez votre premier programme Python</li>
+  <li>Enregistrez vos données avec des variables</li>
+  <li>Classez des données avec les types de données</li>
+  <li>Enregistrez des groupes de données avec les listes</li>
+  <li>Enregistrez des données complexes avec des dictionnaires</li>
+</ol>
+<p><strong>Quiz : Créer des données avec Python</strong></p>
 
-**Quiz : Créer des données avec Python**
+<h3><strong>PARTIE 2 : Gérez la logique du programme dans Python</strong></h3>
+<ol>
+  <li>Contrôlez le déroulement de votre programme avec des conditions</li>
+  <li>Répétez des tâches facilement à l’aide de boucles</li>
+  <li>Regroupez des tâches en utilisant des fonctions</li>
+  <li>Écrivez du code en évitant les erreurs courantes</li>
+</ol>
+<p><strong>Quiz : Gérer la logique de programmation dans Python</strong></p>
 
-### PARTIE 2 : Gérez la logique du programme dans Python
-1. Contrôlez le déroulement de votre programme avec des conditions
-2. Répétez des tâches facilement à l’aide de boucles
-3. Regroupez des tâches en utilisant des fonctions
-4. Écrivez du code en évitant les erreurs courantes
+<h3><strong>PARTIE 3 : Extrayez des données du web avec les packages Python</strong></h3>
+<ol>
+  <li>Importez des packages Python</li>
+  <li>Extrayez et transformez des données avec l’extraction web</li>
+  <li>Chargez des données avec Python</li>
+  <li>Relevez les défis de l’extraction de données web</li>
+</ol>
+<p><strong>Quiz : Extraire des données du web avec Python et certains de ses packages</strong></p>
 
-**Quiz : Gérer la logique de programmation dans Python**
-
-### PARTIE 3 : Extrayez des données du web avec les packages Python
-1. Importez des packages Python
-2. Extrayez et transformez des données avec l’extraction web
-3. Chargez des données avec Python
-4. Relevez les défis de l’extraction de données web
-
-**Quiz : Extraire des données du web avec Python et certains de ses packages**
 </details>
 
 ## [#002 - Apprenez la programmation orientée objet avec Python](https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python)
