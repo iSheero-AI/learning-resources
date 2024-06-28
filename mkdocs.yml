@@ -34,7 +34,7 @@ nav:
       Business Analytics : "02-Intermediate Courses/08-Business Analytics.md"
       ETL Processes : "02-Intermediate Courses/09-ETL Processes.md"
   - Avancé:
-      Advanced Statistics : "03-Advanced Courses/01-Advanced SQL.md"
+      Advanced SQL : "03-Advanced Courses/01-Advanced SQL.md"
       Advanced Cloud Services : "03-Advanced Courses/02-Advanced Cloud Services.md"
       ML Systems Design : "03-Advanced Courses/03-ML Systems Design.md"
       Deep Learning : "03-Advanced Courses/04-Deep Learning.md"
