@@ -14,6 +14,7 @@ This repository aims to be a one-stop resource for anyone looking to learn and a
 ## 🔍 Fields of Study
 
 We cover the following fields in AI and data:
+
 - Data Science 📊
 - Data Analysis 📈
 - Data Engineering 🏗️

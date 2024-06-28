@@ -1,172 +1,189 @@
 # **Data Modeling**
 
-## [#001 - Modélisation](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes)
+## [001 - Modélisation](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes)
 
 <details>
   <summary>Details</summary>
 
-### Partie 1 - Appréhendez la notion de modélisation
+<h3><strong>Partie 1 - Appréhendez la notion de modélisation</strong></h3>
+<ol>
+  <li>Appréhendez les différents types de modélisation</li>
+  <li>Découvrez le jeu de données de l'ozone</li>
+  <li>Découvrez le jeu de données des maladies cardio-vasculaires</li>
+  <li>Découvrez le jeu de données du blé</li>
+</ol>
 
-1. Appréhendez les différents types de modélisation
-2. Découvrez le jeu de données de l'ozone
-3. Découvrez le jeu de données des maladies cardio-vasculaires
-4. Découvrez le jeu de données du blé
+<h3><strong>Partie 2 - Modélisez des données à l'aide de la régression linéaire simple</strong></h3>
+<ol>
+  <li>Appréhendez le fonctionnement de la régression linéaire</li>
+  <li>Appliquez la méthode des Moindres Carrés Ordinaires</li>
+  <li>Calculez le coefficient de détermination</li>
+  <li>Testez le modèle linéaire gaussien simple</li>
+  <li>TP : Pratiquez la régression linéaire sur le jeu de données de l'ozone</li>
+  <li>Entraînez-vous : déterminez la hauteur d'un arbre à l'aide d'une régression</li>
+</ol>
 
-### Partie 2 - Modélisez des données à l'aide de la régression linéaire simple
+<h3><strong>Partie 3 - Modélisez des données à l'aide de la régression linéaire multiple</strong></h3>
+<ol>
+  <li>Appréhendez le fonctionnement de la régression linéaire multiple</li>
+  <li>Appliquez la méthode des Moindres Carrés Ordinaires</li>
+  <li>Calculez le coefficient de détermination</li>
+  <li>Testez le modèle linéaire gaussien multiple</li>
+  <li>Analysez les résultats</li>
+  <li>Sélectionnez automatiquement un modèle</li>
+  <li>TP : Pratiquez la régression linéaire multiple sur le jeu de données de l'ozone</li>
+  <li>Entraînez-vous : améliorez les prévisions de hauteur des arbres</li>
+</ol>
 
-1. Appréhendez le fonctionnement de la régression linéaire
-2. Appliquez la méthode des Moindres Carrés Ordinaires
-3. Calculez le coefficient de détermination
-4. Testez le modèle linéaire gaussien simple
-5. TP : Pratiquez la régression linéaire sur le jeu de données de l'ozone
-6. Entraînez-vous : déterminez la hauteur d'un arbre à l'aide d'une régression
+<h3><strong>Partie 4 - Effectuez une classification à l'aide de la régression logistique</strong></h3>
+<ol>
+  <li>Appréhendez le fonctionnement de la régression logistique</li>
+  <li>Estimez un modèle de régression logistique</li>
+  <li>Analysez les résultats</li>
+  <li>TP : Pratiquez la régression logistique sur le jeu de données des maladies cardio-vasculaires</li>
+</ol>
 
-### Partie 3 - Modélisez des données à l'aide de la régression linéaire multiple
+<strong>Quiz : Avez-vous compris les enjeux de la régression logistique ?</strong>
 
-1. Appréhendez le fonctionnement de la régression linéaire multiple
-2. Appliquez la méthode des Moindres Carrés Ordinaires
-3. Calculez le coefficient de détermination
-4. Testez le modèle linéaire gaussien multiple
-5. Analysez les résultats
-6. Sélectionnez automatiquement un modèle
-7. TP : Pratiquez la régression linéaire multiple sur le jeu de données de l'ozone
-8. Entraînez-vous : améliorez les prévisions de hauteur des arbres
+<h3><strong>Partie 5 - Effectuez une analyse de la variance (ANOVA)</strong></h3>
+<ol>
+  <li>Appréhendez le fonctionnement de l'analyse de la variance (ANOVA)</li>
+  <li>Réalisez une analyse de la variance</li>
+  <li>TP : Pratiquez l'analyse de la variance sur le jeu de données du blé</li>
+</ol>
 
-### Partie 4 - Effectuez une classification à l'aide de la régression logistique
-
-1. Appréhendez le fonctionnement de la régression logistique
-2. Estimez un modèle de régression logistique
-3. Analysez les résultats
-4. TP : Pratiquez la régression logistique sur le jeu de données des maladies cardio-vasculaires
-
-**Quiz : Avez-vous compris les enjeux de la régression logistique ?**
-
-### Partie 5 - Effectuez une analyse de la variance (ANOVA)
-
-1. Appréhendez le fonctionnement de l'analyse de la variance (ANOVA)
-2. Réalisez une analyse de la variance
-3. TP : Pratiquez l'analyse de la variance sur le jeu de données du blé
-
-**Quiz : Avez-vous compris les enjeux de l'ANOVA ?**
+<strong>Quiz : Avez-vous compris les enjeux de l'ANOVA ?</strong>
 
 
 </details>
 
-## [#002 - Machine Learning](https://openclassrooms.com/fr/courses/8063076-initiez-vous-au-machine-learning)
+## [002 - Machine Learning](https://openclassrooms.com/fr/courses/8063076-initiez-vous-au-machine-learning)
 
 <details>
   <summary>Details</summary>
 
-### Partie 1 - Découvrez les grands principes du Machine Learning
+<h3><strong>Partie 1 - Découvrez les grands principes du Machine Learning</strong></h3>
+<ol>
+  <li>Tirez un maximum de ce cours</li>
+  <li>Abordez le domaine d’application du Machine Learning</li>
+  <li>Découvrez les notions de modèle et d’algorithme</li>
+  <li>Passez d’une problématique business à la mise en production</li>
+</ol>
 
-1. Tirez un maximum de ce cours
-2. Abordez le domaine d’application du Machine Learning
-3. Découvrez les notions de modèle et d’algorithme
-4. Passez d’une problématique business à la mise en production
+<strong>Quiz : Découvrir les grands principes du Machine Learning</strong>
 
-**Quiz : Découvrir les grands principes du Machine Learning**
+<h3><strong>Partie 2 - Manipulez les fonctions de base d'un modèle prédictif</strong></h3>
+<ol>
+  <li>Évaluez la performance d’un modèle prédictif</li>
+  <li>Découvrez le principe de la régression linéaire</li>
+  <li>Classifiez les données avec la régression logistique</li>
+  <li>Partitionnez les données avec k-means</li>
+</ol>
 
-### Partie 2 - Manipulez les fonctions de base d'un modèle prédictif
+<strong>Quiz : Manipuler les fonctions de base d'un modèle prédictif</strong>
 
-1. Évaluez la performance d’un modèle prédictif
-2. Découvrez le principe de la régression linéaire
-3. Classifiez les données avec la régression logistique
-4. Partitionnez les données avec k-means
+<h3><strong>Partie 3 - Transformez vos jeux de données</strong></h3>
+<ol>
+  <li>Comprenez le rôle central du jeu de données</li>
+  <li>Améliorez un jeu de données</li>
+  <li>Transformez les variables pour faciliter l’apprentissage du modèle</li>
+</ol>
 
-**Quiz : Manipuler les fonctions de base d'un modèle prédictif**
+<strong>Quiz : Transformer des jeux de données</strong>
 
-### Partie 3 - Transformez vos jeux de données
+<h3><strong>Partie 4 - Optimisez les performances d’un modèle</strong></h3>
+<ol>
+  <li>Améliorez le modèle</li>
+  <li>Augmentez la robustesse de vos modèles</li>
+  <li>Découvrez l'apprentissage d'ensemble avec les forêts aléatoires</li>
+</ol>
 
-1. Comprenez le rôle central du jeu de données
-2. Améliorez un jeu de données
-3. Transformez les variables pour faciliter l’apprentissage du modèle
+<strong>Quiz : Optimiser les performances d’un modèle</strong>
 
-**Quiz : Transformer des jeux de données**
-
-### Partie 4 - Optimisez les performances d’un modèle
-
-1. Améliorez le modèle
-2. Augmentez la robustesse de vos modèles
-3. Découvrez l'apprentissage d'ensemble avec les forêts aléatoires
-
-**Quiz : Optimiser les performances d’un modèle**
 
 </details>
 
-## [#003 - Modele prédictif lénéaire](https://openclassrooms.com/fr/courses/4444646-entrainez-un-modele-predictif-lineaire)
+## [003 - Modele prédictif lénéaire](https://openclassrooms.com/fr/courses/4444646-entrainez-un-modele-predictif-lineaire)
 
 <details>
   <summary>Details</summary>
 
-### Partie 1 - Prédisez des étiquettes quantitatives à l’aide d’une combinaison linéaire des variables
+<h3><strong>Partie 1 - Prédisez des étiquettes quantitatives à l’aide d’une combinaison linéaire des variables</strong></h3>
+<ol>
+  <li>Trouvez une combinaison linéaire de variables qui approxime leurs étiquettes</li>
+  <li>Contrôlez la complexité de votre modèle</li>
+  <li>Réduisez l’amplitude des poids affectés à vos variables</li>
+  <li>Réduisez le nombre de variables utilisées par votre modèle</li>
+  <li>TP - Comparez le comportement du lasso et de la régression ridge</li>
+</ol>
 
-1. Trouvez une combinaison linéaire de variables qui approxime leurs étiquettes
-2. Contrôlez la complexité de votre modèle
-3. Réduisez l’amplitude des poids affectés à vos variables
-4. Réduisez le nombre de variables utilisées par votre modèle
-5. TP - Comparez le comportement du lasso et de la régression ridge
-   
-
-### Partie 2 - Séparez linéairement vos observations
-
-1. Prédisez linéairement la probabilité de l’appartenance d’un point à une classe
-2. Maximisez la marge de séparation entre vos classes
-3. Classifiez vos données en plus de deux classes
-4. TP - Entraînez une régression logistique et une SVM linéaire
-5. Entraînez-vous à classer automatiquement des feuilles d’arbres
-</details>
-
-## [#004 - Comprendre l'évaluation des modèles ](https://openclassrooms.com/fr/courses/4444646-entrainez-un-modele-predictif-lineaire)
-
-<details>
-  <summary>Details</summary>
-
-### Partie 1 - Évaluez vos modèles sans sur-apprentissage
-
-1. Comprenez ce qui fait un bon modèle d’apprentissage
-2. Mettez en place un cadre de validation croisée
-3. TP – Sélectionnez le nombre de voisins dans un kNN
-4. Entraînez-vous : implémentez une validation croisée
-
-### Partie 2 - Évaluez un modèle de classification
-
-1. Évaluez un algorithme de classification qui retourne des valeurs binaires
-2. Évaluez un algorithme de classification qui retourne des scores
-3. Comparez votre algorithme à des approches de classification naïves
-
-### Partie 3 - Évaluez un modèle de régression
-
-1. Évaluez un algorithme de régression
-2. Comparez votre algorithme à des approches de régression naïves
-3. Entraînez-vous : sélectionnez le nombre de voisins dans un kNN pour une régression
+<h3><strong>Partie 2 - Séparez linéairement vos observations</strong></h3>
+<ol>
+  <li>Prédisez linéairement la probabilité de l’appartenance d’un point à une classe</li>
+  <li>Maximisez la marge de séparation entre vos classes</li>
+  <li>Classifiez vos données en plus de deux classes</li>
+  <li>TP - Entraînez une régression logistique et une SVM linéaire</li>
+  <li>Entraînez-vous à classer automatiquement des feuilles d’arbres</li>
+</ol>
 
 </details>
 
-
-## [#005 - Comprendre les réseaux de neuronnes](https://openclassrooms.com/fr/courses/5801891-initiez-vous-au-deep-learning)
+## [004 - Comprendre l'évaluation des modèles ](https://openclassrooms.com/fr/courses/4444646-entrainez-un-modele-predictif-lineaire)
 
 <details>
   <summary>Details</summary>
 
-### Partie 1 - Identifiez les principes de base des réseaux de neurones artificiels
+<h3><strong>Partie 1 - Évaluez vos modèles sans sur-apprentissage</strong></h3>
+<ol>
+  <li>Comprenez ce qui fait un bon modèle d’apprentissage</li>
+  <li>Mettez en place un cadre de validation croisée</li>
+  <li>TP – Sélectionnez le nombre de voisins dans un kNN</li>
+  <li>Entraînez-vous : implémentez une validation croisée</li>
+</ol>
 
-1. Découvrez le neurone formel
-2. Explorez les réseaux de neurones en couches
-3. Initiez-vous aux autoencodeurs
-4. Construisez des réseaux profonds grâce aux couches convolutionnelles
-5. Construisez des modèles génératifs grâce aux réseaux de neurones
+<h3><strong>Partie 2 - Évaluez un modèle de classification</strong></h3>
+<ol>
+  <li>Évaluez un algorithme de classification qui retourne des valeurs binaires</li>
+  <li>Évaluez un algorithme de classification qui retourne des scores</li>
+  <li>Comparez votre algorithme à des approches de classification naïves</li>
+</ol>
 
-**Quiz : Testez vos connaissances sur le Deep Learning**
+<h3><strong>Partie 3 - Évaluez un modèle de régression</strong></h3>
+<ol>
+  <li>Évaluez un algorithme de régression</li>
+  <li>Comparez votre algorithme à des approches de régression naïves</li>
+  <li>Entraînez-vous : sélectionnez le nombre de voisins dans un kNN pour une régression</li>
+</ol>
 
-### Partie 2 - Découvrez les réseaux de neurones adaptés au traitement de séquences
+</details>
 
-1. Initiez-vous aux problématiques liées au traitement de séquences
-2. Découvrez le fonctionnement des réseaux de neurones récurrents
-3. Maitrisez les algorithmes d'apprentissage des réseaux récurrents
-4. Découvrez les cellules à mémoire interne : les LSTM
-5. Construisez des architectures neuronales modulaires
 
-**Quiz : Testez vos connaissances sur les modèles récurrents**
+## [005 - Comprendre les réseaux de neuronnes](https://openclassrooms.com/fr/courses/5801891-initiez-vous-au-deep-learning)
+
+<details>
+  <summary>Details</summary>
+
+<h3><strong>Partie 1 - Identifiez les principes de base des réseaux de neurones artificiels</strong></h3>
+<ol>
+  <li>Découvrez le neurone formel</li>
+  <li>Explorez les réseaux de neurones en couches</li>
+  <li>Initiez-vous aux autoencodeurs</li>
+  <li>Construisez des réseaux profonds grâce aux couches convolutionnelles</li>
+  <li>Construisez des modèles génératifs grâce aux réseaux de neurones</li>
+</ol>
+
+<strong>Quiz : Testez vos connaissances sur le Deep Learning</strong>
+
+<h3><strong>Partie 2 - Découvrez les réseaux de neurones adaptés au traitement de séquences</strong></h3>
+<ol>
+  <li>Initiez-vous aux problématiques liées au traitement de séquences</li>
+  <li>Découvrez le fonctionnement des réseaux de neurones récurrents</li>
+  <li>Maitrisez les algorithmes d'apprentissage des réseaux récurrents</li>
+  <li>Découvrez les cellules à mémoire interne : les LSTM</li>
+  <li>Construisez des architectures neuronales modulaires</li>
+</ol>
+
+<strong>Quiz : Testez vos connaissances sur les modèles récurrents</strong>
 </details>
 
 
