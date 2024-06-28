@@ -49,3 +49,24 @@
   <summary>Details</summary>
 
 </details>
+
+## [#008 - Khan Academy : Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
+
+<details>
+  <summary>Details</summary>
+
+</details>
+
+## [#009 - DataCamp : Introduction to Statistics](https://www.datacamp.com/courses/introduction-to-statistics)
+
+<details>
+  <summary>Details</summary>
+
+</details>
+
+## [#010 - Stanford University : Introduction to Statistics](https://online.stanford.edu/courses/xfds110-introduction-statistics)
+
+<details>
+  <summary>Details</summary>
+
+</details>
