@@ -1,3 +1,0 @@
-mkdocs-material==9.5.27
-mkdocstrings
-mkdocs-git-revision-date-plugin
