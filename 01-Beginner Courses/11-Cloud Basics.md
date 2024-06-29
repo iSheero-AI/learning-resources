@@ -51,7 +51,7 @@
 <p><strong>Quiz : Stocker des fichiers sur S3</strong></p>
 </details>
 
-## [003 - **Video** : Préparation de la certification cloud AWS ](https://youtube.com/playlist?list=PL2A0j6QPgLzeUXmw90Hykt7lr1ZgkUZQj&si=caBegNtY6OL_xxsv)
+## [003 - **Video** : Préparation de la certification cloud AWS ]()
 
 <details>
   <summary>Details</summary>
