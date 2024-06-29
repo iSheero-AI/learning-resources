@@ -12,42 +12,51 @@ edit_uri: tree/mkdocs/docs # Uncomment to define a different URI/URL for the "ed
 nav:
   - Bienvenue !: index.md
   - Débutant:
-      Python Programming : "01-Beginner Courses/01-Python Programming.md"
-      Linux Basics : "01-Beginner Courses/02-Linux Basics.md"
+      Programmation Python : "01-Beginner Courses/01-Python Programming.md"
+      Les bases de Linux : "01-Beginner Courses/02-Linux Basics.md"
       Git and Github : "01-Beginner Courses/03-Git and Github.md"
       SQL : "01-Beginner Courses/04-SQL.md"
-      Statistics : "01-Beginner Courses/05-Statistics.md"
-      Database Fundamentals : "01-Beginner Courses/06-Database Fundamentals.md"
-      Data Modeling : "01-Beginner Courses/07-Data Modeling.md"
-      Data Visualization : "01-Beginner Courses/08-Data Visualization.md"
-      Mathematics for Robotics : "01-Beginner Courses/09-Mathematics for Robotics.md"
-      Basic Electronics and Programming : "01-Beginner Courses/10-Basic Electronics and Programming.md"
-      Cloud Basics : "01-Beginner Courses/11-Cloud Basics.md"
+      Statistiques : "01-Beginner Courses/05-Statistics.md"
+      Les fondamentaux des bases de données : "01-Beginner Courses/06-Database Fundamentals.md"
+      Modélisation des données : "01-Beginner Courses/07-Data Modeling.md"
+      Visualisation de données : "01-Beginner Courses/08-Data Visualization.md"
+      Mathematiques en Robotique : "01-Beginner Courses/09-Mathematics for Robotics.md"
+      Electronique de base et programmation : "01-Beginner Courses/10-Basic Electronics and Programming.md"
+      Bases du Cloud : "01-Beginner Courses/11-Cloud Basics.md"
   - Intermédiaire:
-      Advanced Statistics : "02-Intermediate Courses/01-Advanced Statistics.md"
-      Data Cleaning : "02-Intermediate Courses/02-Data Cleaning.md"
-      Data Visualization Tools : "02-Intermediate Courses/03-Data Visualization Tools.md"
+      Statistiques avancées : "02-Intermediate Courses/01-Advanced Statistics.md"
+      Nettoyage des données : "02-Intermediate Courses/02-Data Cleaning.md"
+      Outils de visualisation des données : "02-Intermediate Courses/03-Data Visualization Tools.md"
       Machine Learning : "02-Intermediate Courses/04-Machine Learning.md"
       Infrastructure as Code : "02-Intermediate Courses/05-Infrastructure as Code.md"
       Cloud Platforms : "02-Intermediate Courses/06-Cloud Platforms.md"
-      NoSQL Databases : "02-Intermediate Courses/07-NoSQL Databases.md"
+      Bases de données NoSQL : "02-Intermediate Courses/07-NoSQL Databases.md"
       Business Analytics : "02-Intermediate Courses/08-Business Analytics.md"
       ETL Processes : "02-Intermediate Courses/09-ETL Processes.md"
   - Avancé:
-      Advanced SQL : "03-Advanced Courses/01-Advanced SQL.md"
-      Advanced Cloud Services : "03-Advanced Courses/02-Advanced Cloud Services.md"
+      SQL Avancé : "03-Advanced Courses/01-Advanced SQL.md"
+      Services Cloud Avancés : "03-Advanced Courses/02-Advanced Cloud Services.md"
       ML Systems Design : "03-Advanced Courses/03-ML Systems Design.md"
       Deep Learning : "03-Advanced Courses/04-Deep Learning.md"
       MLOps : "03-Advanced Courses/05-MLOps.md"
       Big Data Tools : "03-Advanced Courses/06-Big Data Tools.md"
       Containerization : "03-Advanced Courses/07-Containerization.md"
       Cloud Security : "03-Advanced Courses/08-Cloud Security.md"
-      Data Governance : "03-Advanced Courses/09-Data Governance.md"
+      Gouvernance des données : "03-Advanced Courses/09-Data Governance.md"
       Data Warehousing : "03-Advanced Courses/10-Data Warehousing.md"
-      Advanced Robotics Programming : "03-Advanced Courses/11-Advanced Robotics Programming.md"
-      Real-Time Data Processing : "03-Advanced Courses/12-Real-Time Data Processing.md"
+      Programmation robotique avancée : "03-Advanced Courses/11-Advanced Robotics Programming.md"
+      Traitement des données en temps réel : "03-Advanced Courses/12-Real-Time Data Processing.md"
 
-
+# +--------------------------------------------------------------------------------------------------------+
+# |                                                                                                        |
+# | The "theme" section allows you to define what theme to use.                                            |
+# | It is also used for theme-specific options, but also for advanced stuff such as theme-extensions, if   |
+# | the theme actually supports it.                                                                        |
+# |                                                                                                        |
+# | Read More:                                                                                             |
+# | - https://www.mkdocs.org/user-guide/configuration/#theme                                               |
+# |                                                                                                        |
+# +--------------------------------------------------------------------------------------------------------+
 theme:
   name: 'material'
   #custom_dir: 'theme'
@@ -114,9 +123,11 @@ theme:
   #- navigation.indexes     # Attach pages directly to Sections. Incompatible with "toc.integrate"
   #- navigation.sections    # Render top sections as groups.
   - navigation.tabs         # Render top sections as tabs at the top.
-  - navigation.tabs.sticky # Tabs won't disappear when scrolling down. Requires "navigation.tabs".
+  
+  #- navigation.tabs.sticky # Tabs won't disappear when scrolling down. Requires "navigation.tabs".
   - navigation.top         # Adds a "Back to top" that is shown when scrolling up.
-  #- navigation.tracking    # Updates the url with highlighted section anchor.
+  #- navigation.footer
+  - navigation.tracking    # Updates the url with highlighted section anchor.
   
   # Search
   #
@@ -138,6 +149,8 @@ extra:
       link: 'https://github.com/isheero-ai/learning-resources'
     - icon: 'fontawesome/brands/linkedin'
       link: 'https://www.linkedin.com/company/isheero/'
+    - icon: 'fontawesome/brands/youtube'
+      link: 'https://www.youtube.com/@isheero'
       
   generator: true
 

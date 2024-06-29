@@ -21,7 +21,7 @@
   Details
 </details>
 
-## [004 - DataQuest : SQL Basics _ Hands-On Beginner SQL Tutorial](https://dataquest.io/blog/sql-basics/)
+## [004 - DataQuest : Hands-On Beginner SQL Tutorial](https://dataquest.io/blog/sql-basics/)
 
 <details>
   <summary>Details</summary>
@@ -35,7 +35,7 @@
   Details
 </details>
 
-## [006 - Udemy : SQL for beginners with :( PostgreSQL, MySQL, SQL Server )](https://www.udemy.com/course/sql-for-beginners-with-postgresql-mysql-sql-server/)
+## [006 - Udemy : SQL with PostgreSQL, MySQL, SQL Server](https://www.udemy.com/course/sql-for-beginners-with-postgresql-mysql-sql-server/)
 
 <details>
   <summary>Details</summary>
