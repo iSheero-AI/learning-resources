@@ -22,7 +22,7 @@
   La playlist est rangée dans l'ordre décroissant 
 </details>
 
-## [#004 - Les bases de MicroPython](https://youtube.com/playlist?list=PLrg3muFxU4YkTYCPxu8lznnyZC5MOO5YQ&si=mRiEJi7QZN6WkyQK)
+## [#004 - Les bases de MicroPython](https://www.coursera.org/learn/design-of-cps?)
 
 <details>
   <summary>Details</summary> 
