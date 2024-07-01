@@ -4,7 +4,23 @@
 
 <details>
   <summary>Details</summary>
-
+  <h3><strong>Infrastructure IT : les concepts les plus importants</strong></h3>
+  <ol>
+    <li>Vous avez dit "Infrastructure IT" ?</li>
+    <li>Le serveur informatique expliqué en dessins</li>
+    <li>L'OS expliqué en 3 minutes</li>
+    <li>Comprendre la virtualisation</li>
+    <li>Comprendre le stockage (SAN, NAS, DAS et Cloud)</li>
+    <li>PAN, LAN, MAN, WAN : l'essentiel</li>
+    <li>Comprendre le clustering (et le load balancing)</li>
+    <li>L'architecture de sécurité expliquée avec Game of Thrones</li>
+    <li>Firewall : comprendre l'essentiel</li>
+    <li>Pour aller plus loin…</li>
+    <li>Datacenter : comprendre l'essentiel</li>
+    <li>Hyperconvergence (HCI) : comprendre l'essentiel</li>
+    <li>Le cloud computing expliqué</li>
+    <li>Le mot de la fin !</li>
+  </ol>
 </details>
 
 ## [002 - Bases du Cloud avec AWS](https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github)
