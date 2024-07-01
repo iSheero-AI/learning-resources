@@ -1,4 +1,6 @@
-# **Linux Basics for beginners**
+# **Les bases de linux pour débutant**
+
+---
 
 ## [001 - Apprenez à utiliser la ligne de commande dans un terminal](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal)
 
