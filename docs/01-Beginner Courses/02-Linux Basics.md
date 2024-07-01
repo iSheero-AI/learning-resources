@@ -27,14 +27,31 @@
 
 <details>
   <summary>Details</summary>
-  Details
+  <h3><strong>Table des matières</strong></h3>
+  <ol>
+  <li>Qu'est-ce qu'un système d'exploitation ?</li>
+  <li>Qu'est-ce qu'une distribution ?</li>
+  <li>Qu'est-ce qu'un environnement de bureau ?</li>
+  <li>Comment installer Linux ?</li>
+  <li>Présentation de l'interface</li>
+  <li>Linux au quotidien</li>
+  <li>Installation logicielle</li>
+  <li>Conclusion</li>
+</ol>
+  <h3><strong>Durée : </strong>17min</h3>
 </details>
 
 ## [003 - **Video** : Les bases de la ligne de commande Linux](https://www.youtube.com/watch?v=ngcmXzy8vaI&pp=ygUOQmFzZXMgZGUgbGludXg%3D)
 
 <details>
   <summary>Details</summary>
-  Details
+  <h3><strong>Table des matières</strong></h3>
+  <ol>
+  <li>Interface et paramétrage du Terminal</li>
+  <li>Quelques commandes de base</li>
+  <li>Gestion d'accès aux fichiers/dossiers</li>
+</ol>
+<h3><strong>Durée : </strong>14min</h3>
 </details>
 
 ## [004 - Principes de base de la ligne de commande sous Linux](https://www.coursera.org/projects/principes-de-base-de-la-ligne-de-commande-sous-linux)
@@ -55,12 +72,28 @@
 
 <details>
   <summary>Details</summary>
-  Details
+  <ol>
+  <li>Introduction aux systèmes d'exploitation</li>
+  <li>Le système d'exploitation Linux</li>
+  <li>Commandes Linux dans le shell Bash</li>
+  <li>Bases de données et SQL</li>
+</ol>
 </details>
 
 ## [006 - **Vidéo** : GNU/Linux](https://youtu.be/py1E14pXfAM?si=wYvOlPeOXS2bD_nm)
 
 <details>
   <summary>Details</summary>
-  Details
+  <h3><strong>Table des matières</strong></h3>
+  <ol>
+  <li>Présentation de la formation</li>
+  <li>Présentation du projet GNU/Linux</li>
+  <li>Qu'est-ce que GNU/Linux ?</li>
+  <li>Interopérabilité</li>
+  <li>Déploiement</li>
+  <li>Ce qu'il faut retenir</li>
+  <li>Quelques ressources intéressantes</li>
+  <li>Conclusion</li>
+</ol>
+<h3><strong>Durée : </strong>33min</h3>
 </details>

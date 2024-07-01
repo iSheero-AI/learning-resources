@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-Ce dépôt Github est conçu pour fournir une collection complète de ressources d'apprentissage et de cours pour divers domaines de l'IA, des données et de la technologie. Chaque domaine est classé en trois niveaux : <b>Débutant</b>, <b>Intermédiaire</b> et <b>Avancé</b>, afin d'aider les apprenants à différents stades de leur parcours.
+Bienvenue ! Besoin de ressources pour monter en compétence sur divers sujets liés à l'intelligence artificielle et aux données ? Vous trouverez ici une collection complète de ressources d'apprentissage et de cours pour divers domaines. Ces ressources sont classées en trois niveaux : <b>Débutant</b>, <b>Intermédiaire</b> et <b>Avancé</b>, afin de vous aider à différents stades de votre parcours.
 </div>
 
 ## 📘 Introduction
@@ -34,15 +34,17 @@ Les cours sont classés en trois niveaux pour guider votre parcours d'apprentiss
 Cours et ressources conçus pour les personnes qui débutent dans le domaine. Ces cours couvrent les concepts fondamentaux et fournissent une base solide.
 
 ### 🚀 Intermédiaire
-Courses and resources for individuals who have a basic understanding of the field and are looking to build on that knowledge. These courses cover more advanced topics and techniques.
+Cours et resources pour les personnes qui ont des connaissances de base dans le domaine et qui souhaitent les approfondir. Ces cours couvrent des sujets et des techniques plus avancés.
 
 ### 🏆 Avancé
 Cours et ressources pour les personnes qui ont une bonne compréhension du domaine et qui cherchent à se spécialiser ou à approfondir leur expertise. Ces cours couvrent des sujets complexes et des pratiques avancées.
 
 ## 🤝 Contribuer
 
-Les contributions de la communauté sont les bienvenues ! Si vous avez un cours ou une ressource que vous aimeriez ajouter, veuillez suivre les étapes suivantes :
-1. Faites une fourche sur le référentiel.
+Les contributions de la communauté sont les bienvenues !
+
+Si vous avez un cours ou une ressource que vous aimeriez ajouter, veuillez suivre les étapes suivantes :
+1. Forkez le [dépôt Github](https://github.com/iSheero-AI/learning-resources).
 2. Ajoutez votre cours ou ressource au niveau approprié.
 3. Soumettez un pull request avec une brève description de l'ajout.
 
