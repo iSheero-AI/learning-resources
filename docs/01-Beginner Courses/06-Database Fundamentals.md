@@ -1,4 +1,6 @@
-# **Database Fundamentals**
+# **Les fondamentaux des bases de données**
+
+---
 
 ## [001 - Les bases de données](https://www.coursera.org/learn/introduction-to-databases?specialization=meta-database-engineer)
 

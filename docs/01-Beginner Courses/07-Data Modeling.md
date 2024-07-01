@@ -1,4 +1,6 @@
-# **Data Modeling**
+# **Modélisation de donées pour débutant**
+
+---
 
 ## [001 - Modélisation](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes)
 

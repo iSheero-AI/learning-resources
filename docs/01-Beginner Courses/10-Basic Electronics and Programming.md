@@ -1,5 +1,6 @@
-# **Basic Electronics and Programming**
+# **Électronique de base et programmation**
 
+---
 
 ## [#001 - Les bases de l'électronique analogique](https://youtube.com/playlist?list=PLojmE17vJ5fSv85YenV8TdrrOgFrTDgrT&si=uDWF31IIwGWSTxKW)
 

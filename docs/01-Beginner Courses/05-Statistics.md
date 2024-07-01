@@ -1,4 +1,6 @@
-# **Statistics for beginners**
+# **Statistiques pour débutant**
+
+---
 
 ## [001 - Comprendre la statistique descriptive](https://openclassrooms.com/fr/courses/7410486-nettoyez-et-analysez-votre-jeu-de-donnees)
 

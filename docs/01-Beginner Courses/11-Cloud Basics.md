@@ -1,4 +1,6 @@
-# **Cloud Basics for beginners**
+# **Les bases du cloud pour les débutants**
+
+---
 
 ## [001 - **Video** : Découverte du cloud](https://youtube.com/playlist?list=PLP0aqyZ5GFdm4xat5-347L3ZzqkjZG4bk&si=g6BX7bF4epHozIdu)
 

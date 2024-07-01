@@ -1,4 +1,6 @@
-# **SQL for beginners**
+# **SQL pour débutant**
+
+---
 
 ## [001 - Requêtez une base de données avec SQL](https://openclassrooms.com/fr/courses/7818671-requetez-une-base-de-donnees-avec-sql)
 

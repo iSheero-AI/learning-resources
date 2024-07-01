@@ -1,5 +1,6 @@
-# **Mathematics for Robotics**
+# **Mathématique en robotique pour débutant**
 
+---
 
 ## [#001 - Les bases de la robotique](https://youtube.com/playlist?list=PLojmE17vJ5fSt0oj8TW4RrL7pk2_edF1y&si=iLZWawmL49Y3dZB9)
 
