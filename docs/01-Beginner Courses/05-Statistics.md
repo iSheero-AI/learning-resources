@@ -310,14 +310,6 @@
 
 <details>
   <summary>Details</summary>
-
-
-</details>
-
-## [009 - DataCamp : Introduction to Statistics](https://www.datacamp.com/courses/introduction-to-statistics)
-
-<details>
-  <summary>Details</summary>
 <h3><strong>Unit 1: Analyzing categorical data</strong></h3>
 <ol>
     <li>Analyzing one categorical variable: Analyzing categorical data</li>
@@ -454,6 +446,85 @@
 <ol>
     <li>Analysis of variance (ANOVA): Analysis of variance (ANOVA)</li>
 </ol>
+
+</details>
+
+## [009 - DataCamp : Introduction to Statistics](https://www.datacamp.com/courses/introduction-to-statistics)
+
+<details>
+  <summary>Details</summary>
+  <h3><strong>Chapter 1: Summary Statistics</strong></h3>
+  <ol>
+      <li>What is statistics?</li>
+      <li>Using statistics in the real-world</li>
+      <li>Identifying data types</li>
+      <li>Descriptive vs. Inferential statistics</li>
+      <li>Measures of center</li>
+      <li>Typical number of robberies per London Borough</li>
+      <li>Choosing a measure</li>
+      <li>London Boroughs with most frequent crimes</li>
+      <li>Measures of spread</li>
+      <li>Defining measures of spread</li>
+      <li>Box plots for measuring spread</li>
+      <li>Which crime has the larger standard deviation</li>
+  </ol>
+
+  <h3><strong>Chapter 2: Probability and Distributions</strong></h3>
+  <ol>
+      <li>What are the chances?</li>
+      <li>What is more likely?</li>
+      <li>Chances of the next sale being more than the mean</li>
+      <li>Conditional probability</li>
+      <li>Dependent vs. Independent events</li>
+      <li>Orders of more than 10 basket products</li>
+      <li>Discrete distributions</li>
+      <li>Identifying distributions</li>
+      <li>Sample mean vs. Theoretical mean</li>
+      <li>Continuous distributions</li>
+      <li>Discrete vs. Continuous distributions</li>
+      <li>Finding the normal distribution</li>
+      <li>Calculating probability with a uniform distribution</li>
+  </ol>
+
+  <h3><strong>Chapter 3: More Distributions and the Central Limit Theorem</strong></h3>
+  <ol>
+      <li>The binomial distribution</li>
+      <li>Recognizing a binomial distribution</li>
+      <li>How probability affects the binomial distribution</li>
+      <li>Identifying n and p</li>
+      <li>The normal distribution</li>
+      <li>Recognizing the normal distribution</li>
+      <li>What makes the normal distribution special?</li>
+      <li>Identifying skewness</li>
+      <li>Describing distributions using kurtosis</li>
+      <li>The central limit theorem</li>
+      <li>Visualizing sampling distributions</li>
+      <li>The CLT vs. The law of large numbers</li>
+      <li>When to use the central limit theorem</li>
+      <li>The Poisson distribution</li>
+      <li>Identifying Poisson processes</li>
+      <li>Recognizing lambda in the Poisson distribution</li>
+  </ol>
+
+  <h3><strong>Chapter 4: Correlation and Hypothesis Testing</strong></h3>
+  <ol>
+      <li>Hypothesis testing</li>
+      <li>Sunshine and sleep</li>
+      <li>The hypothesis testing workflow</li>
+      <li>Independent and dependent variables</li>
+      <li>Experiments</li>
+      <li>Recognizing controlled trials</li>
+      <li>Why use randomization?</li>
+      <li>Correlation</li>
+      <li>Identifying correlation between variables</li>
+      <li>What can correlation tell you?</li>
+      <li>Confounding variables</li>
+      <li>Interpreting hypothesis test results</li>
+      <li>Significance levels vs. p-values</li>
+      <li>Type I and type II errors</li>
+      <li>Congratulations!</li>
+  </ol>
+
 
 </details>
 
