@@ -89,7 +89,6 @@
 <ol>
     <li>Tirez le maximum de ce cours</li>
 </ol>
-
 <h3><strong>PARTIE 2 - Appliquez le guide de style PEP 8 au code Python</strong></h3>
 <ol>
     <li>Découvrez les conventions Python</li>
