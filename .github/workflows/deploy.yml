@@ -1,12 +1,4 @@
 name: Deploy MkDocs
-
-permissions:
-  actions: write
-  deployments: write
-  id-token: write
-  pages: write
-  pull-requests: write
-  statuses: write
   
 on:
   push:
@@ -19,6 +11,8 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
+    permissions: write-all
 
     steps:
     - name: Checkout repository
@@ -36,6 +30,7 @@ jobs:
         pip install -r requirements.txt
 
     - name: Deploy to GitHub Pages
-      run: mkdocs gh-deploy --force
-      env:
-        GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "actions@github.com"
+        mkdocs gh-deploy --force
