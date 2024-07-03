@@ -272,13 +272,180 @@
 
 <details>
   <summary>Details</summary>
+  <h3><strong>Notions de Base en Statistique Descriptive</strong></h3>
+  <ol>
+      <li>Statistique descriptive : premier cours (notions de base)</li>
+      <li>Exercice sur les types de variable (de caractère) - Statistique descriptive</li>
+      <li>C’est quoi une moyenne arithmétique ?</li>
+      <li>La médiane - notion et calcul</li>
+      <li>Les quartiles en statistique - notions et calcul</li>
+      <li>Caractéristiques de position et caractéristiques de dispersion - Statistique</li>
+  </ol>
 
+  <h3><strong>Caractéristiques et Mesures en Statistique</strong></h3>
+  <ol>
+      <li>Information cachée derrière : Moyenne, Médiane, Variance, Écart type</li>
+      <li>Exercice en statistique : moyenne, médiane, étendue, les quartiles, variance, écart type</li>
+      <li>Boîte à moustache ou diagramme de quartiles - Statistique descriptive</li>
+      <li>Apprendre à établir la boite à moustaches facilement - cours de statistique descriptive</li>
+      <li>Des formules de base en statistique - En comprendre le sens facilement</li>
+  </ol>
+
+  <h3><strong>Fréquence et Mode</strong></h3>
+  <ol>
+      <li>La fréquence en statistique - en cas de variable quantitative discrète ou continue</li>
+      <li>C’est quoi le MODE d’une série statistique ? Variable discrète ou continue</li>
+  </ol>
+
+  <h3><strong>Représentations Graphiques en Statistique</strong></h3>
+  <ol>
+      <li>Les représentations graphiques les plus utilisées en statistique</li>
+      <li>Diagramme circulaire ou à bandes</li>
+      <li>Diagramme en bâtons et Histogramme</li>
+  </ol>
+ 
 </details>
 
 ## [008 - Khan Academy : Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
 
 <details>
   <summary>Details</summary>
+<h3><strong>Unit 1: Analyzing categorical data</strong></h3>
+<ol>
+    <li>Analyzing one categorical variable: Analyzing categorical data</li>
+    <li>Two-way tables: Analyzing categorical data</li>
+    <li>Distributions in two-way tables: Analyzing categorical data</li>
+</ol>
+
+<h3><strong>Unit 2: Displaying and comparing quantitative data</strong></h3>
+<ol>
+    <li>Displaying quantitative data with graphs: Displaying and comparing quantitative data</li>
+    <li>Describing and comparing distributions: Displaying and comparing quantitative data</li>
+    <li>More on data displays: Displaying and comparing quantitative data</li>
+</ol>
+
+<h3><strong>Unit 3: Summarizing quantitative data</strong></h3>
+<ol>
+    <li>Measuring center in quantitative data: Summarizing quantitative data</li>
+    <li>More on mean and median: Summarizing quantitative data</li>
+    <li>Interquartile range (IQR): Summarizing quantitative data</li>
+    <li>Variance and standard deviation of a population: Summarizing quantitative data</li>
+    <li>Variance and standard deviation of a sample: Summarizing quantitative data</li>
+    <li>More on standard deviation: Summarizing quantitative data</li>
+    <li>Box and whisker plots: Summarizing quantitative data</li>
+    <li>Other measures of spread: Summarizing quantitative data</li>
+</ol>
+
+<h3><strong>Unit 4: Modeling data distributions</strong></h3>
+<ol>
+    <li>Percentiles: Modeling data distributions</li>
+    <li>Z-scores: Modeling data distributions</li>
+    <li>Effects of linear transformations: Modeling data distributions</li>
+    <li>Density curves: Modeling data distributions</li>
+    <li>Normal distributions and the empirical rule: Modeling data distributions</li>
+    <li>Normal distribution calculations: Modeling data distributions</li>
+    <li>More on normal distributions: Modeling data distributions</li>
+</ol>
+
+<h3><strong>Unit 5: Exploring bivariate numerical data</strong></h3>
+<ol>
+    <li>Introduction to scatterplots: Exploring bivariate numerical data</li>
+    <li>Correlation coefficients: Exploring bivariate numerical data</li>
+    <li>Introduction to trend lines: Exploring bivariate numerical data</li>
+    <li>Least-squares regression equations: Exploring bivariate numerical data</li>
+    <li>Assessing the fit in least-squares regression: Exploring bivariate numerical data</li>
+    <li>More on regression: Exploring bivariate numerical data</li>
+</ol>
+
+<h3><strong>Unit 6: Study design</strong></h3>
+<ol>
+    <li>Statistical questions: Study design</li>
+    <li>Sampling and observational studies: Study design</li>
+    <li>Sampling methods: Study design</li>
+    <li>Types of studies (experimental vs. observational): Study design</li>
+    <li>Experiments: Study design</li>
+</ol>
+
+<h3><strong>Unit 7: Probability</strong></h3>
+<ol>
+    <li>Basic theoretical probability: Probability</li>
+    <li>Probability using sample spaces: Probability</li>
+    <li>Basic set operations: Probability</li>
+    <li>Experimental probability: Probability</li>
+    <li>Randomness, probability, and simulation: Probability</li>
+    <li>Addition rule: Probability</li>
+    <li>Multiplication rule for independent events: Probability</li>
+    <li>Multiplication rule for dependent events: Probability</li>
+    <li>Conditional probability and independence: Probability</li>
+</ol>
+
+<h3><strong>Unit 8: Counting, permutations, and combinations</strong></h3>
+<ol>
+    <li>Counting principle and factorial: Counting, permutations, and combinations</li>
+    <li>Permutations: Counting, permutations, and combinations</li>
+    <li>Combinations: Counting, permutations, and combinations</li>
+    <li>Combinatorics and probability: Counting, permutations, and combinations</li>
+</ol>
+
+<h3><strong>Unit 9: Random variables</strong></h3>
+<ol>
+    <li>Discrete random variables: Random variables</li>
+    <li>Continuous random variables: Random variables</li>
+    <li>Transforming random variables: Random variables</li>
+    <li>Combining random variables: Random variables</li>
+    <li>Binomial random variables: Random variables</li>
+    <li>Binomial mean and standard deviation formulas: Random variables</li>
+    <li>Geometric random variables: Random variables</li>
+    <li>More on expected value: Random variables</li>
+    <li>Poisson distribution: Random variables</li>
+</ol>
+
+<h3><strong>Unit 10: Sampling distributions</strong></h3>
+<ol>
+    <li>What is a sampling distribution?: Sampling distributions</li>
+    <li>Sampling distribution of a sample proportion: Sampling distributions</li>
+    <li>Sampling distribution of a sample mean: Sampling distributions</li>
+</ol>
+
+<h3><strong>Unit 11: Confidence intervals</strong></h3>
+<ol>
+    <li>Introduction to confidence intervals: Confidence intervals</li>
+    <li>Estimating a population proportion: Confidence intervals</li>
+    <li>Estimating a population mean: Confidence intervals</li>
+    <li>More confidence interval videos: Confidence intervals</li>
+</ol>
+
+<h3><strong>Unit 12: Significance tests (hypothesis testing)</strong></h3>
+<ol>
+    <li>The idea of significance tests: Significance tests (hypothesis testing)</li>
+    <li>Error probabilities and power: Significance tests (hypothesis testing)</li>
+    <li>Tests about a population proportion: Significance tests (hypothesis testing)</li>
+    <li>Tests about a population mean: Significance tests (hypothesis testing)</li>
+    <li>More significance testing videos: Significance tests (hypothesis testing)</li>
+</ol>
+
+<h3><strong>Unit 13: Two-sample inference for the difference between groups</strong></h3>
+<ol>
+    <li>Comparing two proportions: Two-sample inference for the difference between groups</li>
+    <li>Comparing two means: Two-sample inference for the difference between groups</li>
+</ol>
+
+<h3><strong>Unit 14: Inference for categorical data (chi-square tests)</strong></h3>
+<ol>
+    <li>Chi-square goodness-of-fit tests: Inference for categorical data (chi-square tests)</li>
+    <li>Chi-square tests for relationships: Inference for categorical data (chi-square tests)</li>
+</ol>
+
+<h3><strong>Unit 15: Advanced regression (inference and transforming)</strong></h3>
+<ol>
+    <li>Inference about slope: Advanced regression (inference and transforming)</li>
+    <li>Nonlinear regression: Advanced regression (inference and transforming)</li>
+</ol>
+
+<h3><strong>Unit 16: Analysis of variance (ANOVA)</strong></h3>
+<ol>
+    <li>Analysis of variance (ANOVA): Analysis of variance (ANOVA)</li>
+</ol>
 
 </details>
 
@@ -286,6 +453,78 @@
 
 <details>
   <summary>Details</summary>
+  <h3><strong>Chapter 1: Summary Statistics</strong></h3>
+  <ol>
+      <li>What is statistics?</li>
+      <li>Using statistics in the real-world</li>
+      <li>Identifying data types</li>
+      <li>Descriptive vs. Inferential statistics</li>
+      <li>Measures of center</li>
+      <li>Typical number of robberies per London Borough</li>
+      <li>Choosing a measure</li>
+      <li>London Boroughs with most frequent crimes</li>
+      <li>Measures of spread</li>
+      <li>Defining measures of spread</li>
+      <li>Box plots for measuring spread</li>
+      <li>Which crime has the larger standard deviation</li>
+  </ol>
+
+  <h3><strong>Chapter 2: Probability and Distributions</strong></h3>
+  <ol>
+      <li>What are the chances?</li>
+      <li>What is more likely?</li>
+      <li>Chances of the next sale being more than the mean</li>
+      <li>Conditional probability</li>
+      <li>Dependent vs. Independent events</li>
+      <li>Orders of more than 10 basket products</li>
+      <li>Discrete distributions</li>
+      <li>Identifying distributions</li>
+      <li>Sample mean vs. Theoretical mean</li>
+      <li>Continuous distributions</li>
+      <li>Discrete vs. Continuous distributions</li>
+      <li>Finding the normal distribution</li>
+      <li>Calculating probability with a uniform distribution</li>
+  </ol>
+
+  <h3><strong>Chapter 3: More Distributions and the Central Limit Theorem</strong></h3>
+  <ol>
+      <li>The binomial distribution</li>
+      <li>Recognizing a binomial distribution</li>
+      <li>How probability affects the binomial distribution</li>
+      <li>Identifying n and p</li>
+      <li>The normal distribution</li>
+      <li>Recognizing the normal distribution</li>
+      <li>What makes the normal distribution special?</li>
+      <li>Identifying skewness</li>
+      <li>Describing distributions using kurtosis</li>
+      <li>The central limit theorem</li>
+      <li>Visualizing sampling distributions</li>
+      <li>The CLT vs. The law of large numbers</li>
+      <li>When to use the central limit theorem</li>
+      <li>The Poisson distribution</li>
+      <li>Identifying Poisson processes</li>
+      <li>Recognizing lambda in the Poisson distribution</li>
+  </ol>
+
+  <h3><strong>Chapter 4: Correlation and Hypothesis Testing</strong></h3>
+  <ol>
+      <li>Hypothesis testing</li>
+      <li>Sunshine and sleep</li>
+      <li>The hypothesis testing workflow</li>
+      <li>Independent and dependent variables</li>
+      <li>Experiments</li>
+      <li>Recognizing controlled trials</li>
+      <li>Why use randomization?</li>
+      <li>Correlation</li>
+      <li>Identifying correlation between variables</li>
+      <li>What can correlation tell you?</li>
+      <li>Confounding variables</li>
+      <li>Interpreting hypothesis test results</li>
+      <li>Significance levels vs. p-values</li>
+      <li>Type I and type II errors</li>
+      <li>Congratulations!</li>
+  </ol>
+
 
 </details>
 
@@ -293,5 +532,30 @@
 
 <details>
   <summary>Details</summary>
+  <h3><strong>Introduction et statistiques descriptives pour l'exploration des données</strong></h3>
+
+  <h3><strong>Production de données et échantillonnage</strong></h3>
+
+  <h3><strong>Probabilité et distributions</strong></h3>
+  <ol>
+      <li>Probabilité</li>
+      <li>Approximation normale et distribution binomiale</li>
+      <li>Distributions d'échantillonnage et théorème de la limite centrale</li>
+  </ol>
+
+  <h3><strong>Régression et analyse des données</strong></h3>
+  <ol>
+      <li>Régression</li>
+      <li>Intervalles de confiance</li>
+      <li>Tests de signification</li>
+      <li>Rééchantillonnage</li>
+      <li>Analyse des données catégorielles</li>
+  </ol>
+
+  <h3><strong>Analyse de la variance</strong></h3>
+  <ol>
+      <li>Analyse de la variance à une voie (ANOVA)</li>
+      <li>Comparaisons multiples</li>
+  </ol>
 
 </details>
