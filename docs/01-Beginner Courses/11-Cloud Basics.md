@@ -4,7 +4,7 @@
 
 ## [001 - **Video** : Découverte du cloud](https://youtube.com/playlist?list=PLP0aqyZ5GFdm4xat5-347L3ZzqkjZG4bk&si=g6BX7bF4epHozIdu)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Infrastructure IT : les concepts les plus importants</strong></h3>
   <ol>
@@ -27,7 +27,7 @@
 
 ## [002 - Bases du Cloud avec AWS](https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github)
 
-<details>
+<details open>
   <summary>Details</summary>
 
 <h3><strong>Partie 1 - Prenez en main AWS</strong></h3>
@@ -71,7 +71,7 @@
 
 ## [003 - **Video** : Préparation de la certification cloud AWS ](https://youtube.com/playlist?list=PL2A0j6QPgLzeUXmw90Hykt7lr1ZgkUZQj&si=caBegNtY6OL_xxsv)
 
-<details>
+<details open>
   <summary>Details</summary>
 
   <ul>

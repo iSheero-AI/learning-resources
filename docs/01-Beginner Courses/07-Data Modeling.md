@@ -4,7 +4,7 @@
 
 ## [001 - Modélisation](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes)
 
-<details>
+<details open>
   <summary>Details</summary>
 
 <h3><strong>Partie 1 - Appréhendez la notion de modélisation</strong></h3>
@@ -61,7 +61,7 @@
 
 ## [002 - Machine Learning](https://openclassrooms.com/fr/courses/8063076-initiez-vous-au-machine-learning)
 
-<details>
+<details open>
   <summary>Details</summary>
 
 <h3><strong>Partie 1 - Découvrez les grands principes du Machine Learning</strong></h3>
@@ -107,7 +107,7 @@
 
 ## [003 - Modele prédictif lénéaire](https://openclassrooms.com/fr/courses/4444646-entrainez-un-modele-predictif-lineaire)
 
-<details>
+<details open>
   <summary>Details</summary>
 
 <h3><strong>Partie 1 - Prédisez des étiquettes quantitatives à l’aide d’une combinaison linéaire des variables</strong></h3>
@@ -132,7 +132,7 @@
 
 ## [004 - Comprendre l'évaluation des modèles ](https://openclassrooms.com/fr/courses/4444646-entrainez-un-modele-predictif-lineaire)
 
-<details>
+<details open>
   <summary>Details</summary>
 
 <h3><strong>Partie 1 - Évaluez vos modèles sans sur-apprentissage</strong></h3>
@@ -162,7 +162,7 @@
 
 ## [005 - Comprendre les réseaux de neuronnes](https://openclassrooms.com/fr/courses/5801891-initiez-vous-au-deep-learning)
 
-<details>
+<details open>
   <summary>Details</summary>
 
 <h3><strong>Partie 1 - Identifiez les principes de base des réseaux de neurones artificiels</strong></h3>

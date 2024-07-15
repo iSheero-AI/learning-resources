@@ -4,7 +4,7 @@
 
 ## [001 - Les bases de données](https://www.coursera.org/learn/introduction-to-databases?specialization=meta-database-engineer)
 
-<details>
+<details open>
   <summary>Details</summary>
 
 <h3><strong>Table des matières</strong></h3>
@@ -18,7 +18,7 @@
 
 ## [002 - Comprendre la structure des bases de données](https://youtube.com/playlist?list=PLB9AbbTDeBzT9JN8-Ow669spvEN8DKAwp&si=JKhUoXk1d3fJASV1)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Table des matières</strong></h3>
 <ol>
@@ -41,7 +41,7 @@
 
 ## [003 - Microsoft Learn : Database Fundamentals](https://learn.microsoft.com/en-us/shows/dbfundamentals/)
 
-<details>
+<details open>
   <summary>Details</summary>
 <h3><strong>Table des matières</strong></h3>
 <ol>
@@ -55,7 +55,7 @@
 
 ## [004 - Geeks for Geeks : Basic Database Concepts](https://www.geeksforgeeks.org/basic-database-concepts/)
 
-<details>
+<details open>
   <summary>Details</summary>
 <h3><strong>Table des matières</strong></h3>
 <ol>
@@ -68,7 +68,7 @@
 
 ## [005 - **Video** : Database Fundamentals - Full Course](https://youtu.be/mhsp1SSiugk?si=2yGECPY1QMvcuJc_)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Table des matières</strong></h3>
   <ol>
@@ -83,7 +83,7 @@
 
 ## [006 - DataCamp : Database Design](https://www.datacamp.com/courses/database-design)
 
-<details>
+<details open>
   <summary>Details</summary>
 <h3><strong>Table des matières</strong></h3>
 <ol>

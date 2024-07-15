@@ -4,7 +4,7 @@
 
 ## [001 - Requêtez une base de données avec SQL](https://openclassrooms.com/fr/courses/7818671-requetez-une-base-de-donnees-avec-sql)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>PARTIE 1 - Initiez-vous à la modélisation relationnelle</strong></h3>
 <ol>
@@ -42,7 +42,7 @@
 
 ## [002 - **Video** : SQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Table des matières</strong></h3>
 <ol>
@@ -57,7 +57,7 @@
 
 ## [003 - **Video** : SQL Pour Débutant(e)s](https://www.youtube.com/playlist?list=PLyh35eYRez8cAEBfi1LWN70Cs77bBvCOp)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Table des matières</strong></h3>
 <ol>
@@ -74,7 +74,7 @@
 
 ## [004 - DataQuest : Hands-On Beginner SQL Tutorial](https://dataquest.io/blog/sql-basics/)
 
-<details>
+<details open>
   <summary>Details</summary>
   <ol>
     <li>Installation and Setup</li>
@@ -85,7 +85,7 @@
 
 ## [005 - DataCamp : Introduction to SQL](https://www.datacamp.com/courses/introduction-to-sql)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Relational Databases</strong></h3>
 <ol>
@@ -104,7 +104,7 @@
 
 ## [006 - Udemy : SQL with PostgreSQL, MySQL, SQL Server](https://www.udemy.com/course/sql-for-beginners-with-postgresql-mysql-sql-server/)
 
-<details>
+<details open>
   <summary>Details</summary>
   <ol>
     <li>PostgreSQL Database Server Setup</li>
@@ -124,7 +124,7 @@
 
 ## [007 - **Video** :  SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY?si=kUu544w3YodjtEB7)
 
-<details>
+<details open>
   <summary>Details</summary>
 <ol>
     <li>Tables & Keys</li>

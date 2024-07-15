@@ -4,7 +4,7 @@
 
 ## [001 - Comprendre la statistique descriptive](https://openclassrooms.com/fr/courses/7410486-nettoyez-et-analysez-votre-jeu-de-donnees)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>PARTIE 1 - Appréhendez les bases de l'analyse statistique</strong></h3>
 <ol>
@@ -50,7 +50,7 @@
 
 ## [002 - Comprendre l'inférence statistique](https://openclassrooms.com/fr/courses/4525306-initiez-vous-a-la-statistique-inferentielle)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>PARTIE 1 - Découvrez les statistiques inférentielles</strong></h3>
 <ol>
@@ -101,7 +101,7 @@
 
 ## [003 - Réalisez une analyse exploratoire de données](https://openclassrooms.com/fr/courses/4525281-realisez-une-analyse-exploratoire-de-donnees)
 
-<details>
+<details open>
   <summary>Details</summary>
 <h3><strong>PARTIE 1 - Découvrez l'analyse exploratoire multidimensionnelle</strong></h3>
 <ol>
@@ -139,7 +139,7 @@
 
 ## [004 - Qu'est ce que la probabilté ?](https://openclassrooms.com/fr/courses/4525296-maitrisez-les-bases-des-probabilites)
 
-<details>
+<details open>
   <summary>Details</summary>
 <h3><strong>PARTIE 1 - Explorez les espaces probabilisés</strong></h3>
 <ol>
@@ -176,7 +176,7 @@
 
 ## [005 - Analyse des données temporelles](https://openclassrooms.com/fr/courses/4525371-analysez-et-modelisez-des-series-temporelles)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>PARTIE 1 - Introduction</strong></h3>
 <ol>
@@ -217,7 +217,7 @@
 
 ## [006 - Modélisation statistique](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes)
 
-<details>
+<details open>
   <summary>Details</summary>
 <h3><strong>PARTIE 1 - Appréhendez la notion de modélisation</strong></h3>
 <ol>
@@ -270,7 +270,7 @@
 
 ## [007 - **Video** : Statistique descriptive de A à Z](https://youtube.com/playlist?list=PLHv_18PNzsyr1gsNJp7Q4VmV9v9vcMkbH&si=gbesV_TZIA7d5rAQ)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Notions de Base en Statistique Descriptive</strong></h3>
   <ol>
@@ -308,7 +308,7 @@
 
 ## [008 - Khan Academy : Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
 
-<details>
+<details open>
   <summary>Details</summary>
 <h3><strong>Unit 1: Analyzing categorical data</strong></h3>
 <ol>
@@ -451,7 +451,7 @@
 
 ## [009 - DataCamp : Introduction to Statistics](https://www.datacamp.com/courses/introduction-to-statistics)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Chapter 1: Summary Statistics</strong></h3>
   <ol>
@@ -530,7 +530,7 @@
 
 ## [010 - Stanford University : Introduction to Statistics](https://online.stanford.edu/courses/xfds110-introduction-statistics)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Introduction et statistiques descriptives pour l'exploration des données</strong></h3>
 

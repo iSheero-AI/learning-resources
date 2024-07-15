@@ -4,7 +4,7 @@
 
 ## [001 - Gérez du code avec Git et GitHub](https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>PARTIE 1 - Faites vos premiers pas avec Git</strong></h3>
 <ol>
@@ -40,7 +40,7 @@
 
 ## [002 - **Video** : Apprendre GIT et GITHUB : Le Guide Ultime #1 Machine Learning en Production](https://youtu.be/CuEaWutvPa4?si=-PTGr0pDsMXpPBqi)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Table des matières</strong></h3>
   <ul>
@@ -61,7 +61,7 @@
 
 ## [003 - **Video** : Git Tutorial for Beginners: Learn Git in 1 Hour](https://youtu.be/8JJ101D3knE?si=eK9NVDmDIVLPnD40)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Table des matières</strong></h3>
 
@@ -96,7 +96,7 @@
 
 ## [004 - **Video** : Git et GitHub pour la Data Science : Le Guide Complet pour Débutant.e.s](https://youtu.be/xwFj6WCJW0I?si=k2b-4S1qcLgyNecZ)
 
-<details>
+<details open>
   <summary>Details</summary>
     <h3><strong>Table des matières</strong></h3>
 
@@ -120,7 +120,7 @@
 
 ## [005 - IBM : Git and GitHub Basics](https://www.edx.org/learn/github/ibm-git-and-github-basics)
 
-<details>
+<details open>
   <summary>Details</summary>
 <h3><strong>MODULE 1 : Fondamentaux de Git et GitHub</strong></h3>
 <ul>

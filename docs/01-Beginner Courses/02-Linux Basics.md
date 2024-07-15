@@ -4,7 +4,7 @@
 
 ## [001 - Apprenez à utiliser la ligne de commande dans un terminal](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal)
 
-<details>
+<details open>
   <summary>Details</summary>
   	
 <h3><strong>Partie 1 : Découvrez les bases du Terminal</strong></h3>
@@ -27,7 +27,7 @@
 
 ## [002 - **Video** : Les Bases de Linux](https://www.youtube.com/watch?v=dCL3IwQaNN8&pp=ygUOQmFzZXMgZGUgbGludXg%3D)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Table des matières</strong></h3>
   <ol>
@@ -45,7 +45,7 @@
 
 ## [003 - **Video** : Les bases de la ligne de commande Linux](https://www.youtube.com/watch?v=ngcmXzy8vaI&pp=ygUOQmFzZXMgZGUgbGludXg%3D)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Table des matières</strong></h3>
   <ol>
@@ -58,7 +58,7 @@
 
 ## [004 - Principes de base de la ligne de commande sous Linux](https://www.coursera.org/projects/principes-de-base-de-la-ligne-de-commande-sous-linux)
 
-<details>
+<details open>
   <summary>Details</summary>
   <ol>
   <li>Début amusant avec Linux</li>
@@ -72,7 +72,7 @@
 
 ## [005 - Les outils du métier : Linux et SQL](https://www.coursera.org/learn/les-outils-du-metier-linux-et-sql)
 
-<details>
+<details open>
   <summary>Details</summary>
   <ol>
   <li>Introduction aux systèmes d'exploitation</li>
@@ -84,7 +84,7 @@
 
 ## [006 - **Vidéo** : GNU/Linux](https://youtu.be/py1E14pXfAM?si=wYvOlPeOXS2bD_nm)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Table des matières</strong></h3>
   <ol>

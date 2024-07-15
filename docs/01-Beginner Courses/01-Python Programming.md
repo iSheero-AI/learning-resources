@@ -4,7 +4,7 @@
 
 ## [001 - Apprenez les bases du langage Python](https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python)
 
-<details>
+<details open>
   <summary>Details</summary>
   
 <h3><strong>PARTIE 1 :  Créez des données avec Python</strong></h3>
@@ -41,7 +41,7 @@
 
 ## [002 - Apprenez la programmation orientée objet avec Python](https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python)
 
-<details>
+<details open>
   <summary>Details</summary>
 
 <h3><strong>PARTIE 1 - Écrivez des méthodes et des classes avec Python</strong></h3>
@@ -83,7 +83,7 @@
 
 ## [003 - Écrivez du code Python maintenable](https://openclassrooms.com/fr/courses/7160741-ecrivez-du-code-python-maintenable)
 
-<details>
+<details open>
   <summary>Details</summary>
 <h3><strong>PARTIE 1 - Orientation du cours</strong></h3>
 <ol>
@@ -131,7 +131,7 @@
 
 ## [004 - Testez votre projet Python](https://openclassrooms.com/fr/courses/7155841-testez-votre-projet-python)
 
-<details>
+<details open>
   <summary>Details</summary>
 <h3><strong>PARTIE 1 - Écrivez des tests unitaires</strong></h3>
 <ol>
@@ -175,7 +175,7 @@
 
 ## [005 - **Video** : Apprendre Python pour Débutant - Kevin DEGILA](https://www.youtube.com/playlist?list=PL049bGjkT7dLX7Cl1JGjYj9CA_X68MvXb)
 
-<details>
+<details open>
   <summary>Details</summary>
 <h3><strong>Table des matières</strong></h3>
 
@@ -195,7 +195,7 @@
 
 ## [006 - **Video** : Apprendre le Python - Graven](https://www.youtube.com/playlist?list=PLMS9Cy4Enq5JmIZtKE5OHJCI3jZfpASbR)
 
-<details>
+<details open>
   <summary>Details</summary>
 <h3><strong>Table des matières</strong></h3>
 

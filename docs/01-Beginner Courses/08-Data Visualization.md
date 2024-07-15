@@ -4,7 +4,7 @@
 
 ## [001 - Découvrez les librairies Python pour la Data Science](https://openclassrooms.com/fr/courses/7771531-decouvrez-les-librairies-python-pour-la-data-science)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>PARTIE 1 - Manipulez des tableaux avec NumPy</strong></h3>
 <ol>
@@ -39,7 +39,7 @@
 
 ## [002 - Développez votre culture des données](https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>PARTIE 1 - Préparez-vous à naviguer dans un monde piloté par les données</strong></h3>
 <ol>
@@ -79,7 +79,7 @@
 
 ## [003 - **Video** : Bases avec Matplotlib](https://youtu.be/HcxRxmvOXkg?si=_AM2lwE9mca_lBVm)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Introduction à la visualisation de données</strong></h3>
 <ol>
@@ -123,7 +123,7 @@
 
 ## [004 - **Video** : Introduction à la visualisation des données avec Matplotlib de Python](https://youtu.be/r0Ln7T69hQs?si=b9locP_8JDM4sH3N)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Partie 1 - Introduction et création de données (00:00 - 03:30)</strong></h3>
 <ol>
@@ -160,7 +160,7 @@
 
 ## [005 - **Video** : Apprendre La Visualisation de Données avec Matplotlib et Seaborn](https://youtu.be/cn1L5UWm0IM?si=LSJbCjdEYFY52aNd)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Partie 1 - Introduction (00:00 - 01:30)</strong></h3>
 <ol>
@@ -202,7 +202,7 @@
 
 ## [006 - **Video** : Découverte de Seaborn ](https://youtu.be/xYgfIRzNPlo?si=Ml2ZOyFPSz5d-Mec)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Partie 1 - Introduction à Seaborn</strong></h3>
 <ol>
@@ -238,7 +238,7 @@
 
 ## [007 - **Video** : Découverte de Plotly](https://www.youtube.com/watch?v=2M4_NDVPAAk)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Partie 1 - Introduction et contexte</strong></h3>
 <ol>
@@ -290,7 +290,7 @@
 
 ## [008 - **Video** : Découverte de Bokeh (Anglais) ](https://youtube.com/playlist?list=PLlbbWgBRF8EeiiqzWh29S42wh62EQm7XL&si=nPB6TVT8Ku_FqpQM)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Partie 1 - Introduction à Bokeh</strong></h3>
 <ol>
@@ -339,7 +339,7 @@
 
 ## [009 - **Video** : Découverte de la visualisation des données avec R ](https://youtube.com/playlist?list=PLmJWMf9F8euQrgm_zLBW3SZgGVJa4ArMh&si=NDG-HDzTsKHdE2_S)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>Partie 1 - Introduction à la visualisation avec R</strong></h3>
 <ol>
@@ -388,7 +388,7 @@
 
 ## [010 - Réalisez des rapports statistiques clairs et impactants](https://openclassrooms.com/fr/courses/4525336-realisez-des-rapports-statistiques-clairs-et-impactants)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>PARTIE 1 - Préparez la rédaction de votre rapport</strong></h3>
 <ol>
@@ -421,7 +421,7 @@
 
 ## [011- Réalisez des dashboards avec Power BI](https://openclassrooms.com/fr/courses/7110891-realisez-des-dashboards-avec-power-bi)
 
-<details>
+<details open>
   <summary>Details</summary>
   <h3><strong>PARTIE 1 - Tirez un maximum de ce cours</strong></h3>
 <ol>
