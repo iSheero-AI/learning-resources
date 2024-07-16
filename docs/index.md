@@ -50,6 +50,6 @@ Si vous avez un cours ou une ressource que vous aimeriez ajouter, veuillez suivr
 
 ## 📄 Licence
 
-Ce dépôt est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce dépôt est sous licence MIT. Voir le fichier [LICENSE](LICENSE.md) pour plus de détails.
 
 **Bon apprentissage ! 🎉**
